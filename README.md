@@ -1,0 +1,1 @@
+1. Put Google `clientID` and `clientSecret` in `config/keys.js`;
